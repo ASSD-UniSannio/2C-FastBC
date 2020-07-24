@@ -1,0 +1,6 @@
+/.cache-main
+target/
+results/
+input/
+python_code/
+.idea/
